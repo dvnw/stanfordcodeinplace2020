@@ -4,6 +4,6 @@ The Stanford Code in Place Program 2020 taught us the fundamentals of computer p
 
 Amed Ajibola Salaudeen,
 Learner at Stanford Code in Place Program
-On Twitter: @amedajibola & @fitcoderness
+ /On Twitter: @amedajibola & @fitcoderness
 
 
