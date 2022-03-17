@@ -1,5 +1,5 @@
 """
-Hello world, I'm Amed Ajibola Salaudeen and learner at Stanford Code in Place 2020.
+Hello world, I'm Amed Ajibola and learner at Stanford Code in Place 2020.
 My deepest gratitude to the staff, instructors and professors involved in this program.
 My final project is the following program which displays random programming jokes through
 the user of API. And at the exit, the program displays a quote.
